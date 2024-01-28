@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706473571 source:c:\users\rakri\onedrive\masaüstü\c programlama\mayintarlasi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
